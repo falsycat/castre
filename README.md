@@ -99,3 +99,7 @@ auto y = 123;
   123};
 }
 ```
+
+# License
+
+WTFPL v2
