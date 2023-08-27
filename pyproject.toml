@@ -1,0 +1,6 @@
+[project]
+name = "castre"
+version = "0.9"
+
+[project.scripts]
+castre = "castre:castre"
